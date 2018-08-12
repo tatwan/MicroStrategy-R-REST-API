@@ -23,13 +23,13 @@
 5. [getLibrary()](#library)
 6. [searchObjects()](#search)
 7. [cubeObjects()](#cubeobjects)
-8. [Logout User()](#exit)  
-9. [Embedding Dossier](#magic)   
+8. [Logout User()](#exit)
+
 ---- WIP to be added -----
-10.  [Cube Instance](#cubeinstance)
-11. [Get Cube Data](#cubedata)
-12. [Create Cube](#createcube)
-13. [Write/publish a Cube](#writecube)
+9.  [Cube Instance](#cubeinstance)
+10. [Get Cube Data](#cubedata)
+11. [Create Cube](#createcube)
+12. [Write/publish a Cube](#writecube)
 
 
 ### Import `httr` and `jsonlite` libraries
